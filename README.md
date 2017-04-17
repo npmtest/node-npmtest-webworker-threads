@@ -1,7 +1,7 @@
 # test coverage for  [webworker-threads (v0.7.11)](https://github.com/audreyt/node-webworker-threads)  [![npm package](https://img.shields.io/npm/v/npmtest-webworker-threads.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-webworker-threads) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-webworker-threads.svg)](https://travis-ci.org/npmtest/node-npmtest-webworker-threads)
 #### Lightweight Web Worker API implementation with native threads
 
-[![NPM](https://nodei.co/npm/webworker-threads.png?downloads=true)](https://www.npmjs.com/package/webworker-threads)
+[![NPM](https://nodei.co/npm/webworker-threads.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/webworker-threads)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-webworker-threads/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-webworker-threads/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-webworker-threads/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-webworker-threads/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-webworker-threads/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-webworker-threads/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-webworker-threads/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-webworker-threads/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-webworker-threads/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-webworker-threads/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-webworker-threads%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-webworker-threads/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-webworker-threads/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-webworker-threads/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-webworker-threads/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-webworker-threads%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-webworker-threads/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-webworker-threads/build/test-report.html](https://npmtest.github.io/node-npmtest-webworker-threads/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-webworker-threads/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-webworker-threads/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-webworker-threads/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-webworker-threads/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-webworker-threads/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-webworker-threads/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-webworker-threads/build/screenCapture.npmPackageListing.svg)
 
@@ -27,28 +33,23 @@
 
 {
     "author": {
-        "name": "Audrey Tang",
-        "email": "audreyt@audreyt.org"
+        "name": "Audrey Tang"
     },
     "bugs": {
-        "url": "http://github.com/audreyt/node-webworker-threads/issues",
-        "email": "audreyt@audreyt.org"
+        "url": "http://github.com/audreyt/node-webworker-threads/issues"
     },
     "contributors": [
         {
             "name": "//Threads_a_gogo AUTHORS"
         },
         {
-            "name": "2011-11-06 Jorge Chamorro Bieling",
-            "email": "jorge@jorgechamorro.com"
+            "name": "2011-11-06 Jorge Chamorro Bieling"
         },
         {
-            "name": "2011-11-25 Juan Falgueras Cano",
-            "email": "juan.falgueras@gmail.com"
+            "name": "2011-11-25 Juan Falgueras Cano"
         },
         {
-            "name": "2012-01-26 Bruno Jouhier",
-            "email": "bjouhier@gmail.com"
+            "name": "2012-01-26 Bruno Jouhier"
         }
     ],
     "dependencies": {
@@ -89,13 +90,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "au",
-            "email": "audreyt@audreyt.org"
+            "name": "au"
         }
     ],
     "name": "webworker-threads",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/audreyt/node-webworker-threads.git"
