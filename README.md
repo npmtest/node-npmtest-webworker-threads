@@ -1,4 +1,7 @@
-# test coverage for  [webworker-threads (v0.7.11)](https://github.com/audreyt/node-webworker-threads)  [![npm package](https://img.shields.io/npm/v/npmtest-webworker-threads.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-webworker-threads) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-webworker-threads.svg)](https://travis-ci.org/npmtest/node-npmtest-webworker-threads)
+# npmtest-webworker-threads
+
+#### basic test coverage for  [webworker-threads (v0.7.11)](https://github.com/audreyt/node-webworker-threads)  [![npm package](https://img.shields.io/npm/v/npmtest-webworker-threads.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-webworker-threads) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-webworker-threads.svg)](https://travis-ci.org/npmtest/node-npmtest-webworker-threads)
+
 #### Lightweight Web Worker API implementation with native threads
 
 [![NPM](https://nodei.co/npm/webworker-threads.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/webworker-threads)
